@@ -1,0 +1,106 @@
+Admin (module 1)
+
+Academics
+---------
+	
+	-Department details add
+		-Course Name
+		-Description
+		
+		
+	- Faculty deatils (teaching and non teaching staff)
+		-Name
+		-Staff Type
+		-Department
+		-Photo
+		-Designation
+		-Qualification
+
+
+		- Acheviments (Excellence of students department & year wise, extra curricular achievments)
+
+		Study
+		-----------------
+		-Student Name
+		-Photo
+		-Acheviment
+		-Department
+		-Year
+
+		Extra Curricular
+		-----------------
+		-Student Name
+		-Photo
+		-Acheviment
+		-Department
+		-Year
+	
+
+
+	- About us (Static)
+
+	- History (Static)
+
+
+    - Gallery
+		-Image
+		-Description
+	
+
+	-Contact Us
+	College Information
+	-Name
+	-Email
+	-Query
+
+	View Reply
+	-Name
+	-Query
+	-Reply
+	
+
+	-Query
+	-Name
+	-Post Query to Admin
+	-Reply from Admin
+
+	Admission (Static)
+----------------------
+	-Pre-requities 
+	-Documents required
+
+	Notice board
+------------------ 
+	-Panorama of Events
+	-Event Name
+	-Date
+	-Description
+
+	-Scholarship Updates
+	-Title
+	-Description
+	-Last Date
+
+	ExtraCurricular Activities 
+	Event Type(NSS ,NCC, Sports, College fest ,Seminars, Inter-College-Events)
+	Description
+	Photo
+
+	Placements 
+	-Placement deatils 
+	-Name
+	-Photo
+	-Year
+	-Company
+
+	Alumini 
+	-Contribution by the Aluminis
+	-Image
+	-Description
+
+
+	Lab facility details 
+	-Department
+	-Description
+	-Image
+
